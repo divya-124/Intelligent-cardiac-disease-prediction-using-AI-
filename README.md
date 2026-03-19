@@ -1,4 +1,5 @@
-🔹 1. Introductio
+🔹 1. Introduction
+
 AI-based cardiac disease prediction.
 Heart disease is a major health problem, and early detection is difficult. So, this system uses machine learning to predict whether a person has heart disease based on medical data.
 
